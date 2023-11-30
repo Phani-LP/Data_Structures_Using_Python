@@ -1,7 +1,13 @@
-# Data_Structures_Using_Python
+## Data Structures Using Python
 
-Stack Operations: Push, Pop, Traverse.<br><br>
-Queue Operations: Enqueue, Dequeue, Traverse.<br><br>
+Stack Operations: <br>
+1 - Push <br>
+2 - Pop <br>
+3 - Traverse <br><br>
+Queue Operations: <br>
+1 - Enqueue <br> 
+2 - Dequeue <br>
+3 - Traverse <br><br>
 Single Linkedlist Operations: <br>
 1 - Insert At Begin<br>
 2 - Insert at a index<br>
