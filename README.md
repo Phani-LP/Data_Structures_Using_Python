@@ -18,3 +18,8 @@ Single Linkedlist Operations: <br>
 7 - Delete At Index<br>
 8 - Length of list<br>
 9 - Exit<br><br>
+Double Linkedlist Operations: <br>
+1 - Insert At Begin<br>
+2 - Insert at a index<br>
+3 - Insert at the end<br>
+4 - Diasply<br>
